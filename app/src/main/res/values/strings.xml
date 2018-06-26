@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Gate</string>
+    <string name="image_for_login">image for login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="start">start</string>
+</resources>
